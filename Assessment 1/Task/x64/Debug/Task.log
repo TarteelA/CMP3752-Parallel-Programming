@@ -1,0 +1,6 @@
+﻿  Task.cpp
+C:\Users\tutia\source\repos\Assessment 1\Task\Task.cpp(185,23): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+C:\Users\tutia\source\repos\Assessment 1\Task\Task.cpp(189,27): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+C:\Users\tutia\source\repos\Assessment 1\Task\Task.cpp(193,22): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+C:\Users\tutia\source\repos\Assessment 1\Task\Task.cpp(197,28): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+  Task.vcxproj -> C:\Users\tutia\source\repos\Assessment 1\x64\Debug\Task\Task.exe
